@@ -36,7 +36,6 @@ body
                 inset 0 0 100px  #00fff2;
     -webkit-box-reflect: below 10px linear-gradient(transparent, transparent, #0002);
     animation: animate 3s linear infinite;
-    animation-delay: 3s;
 }
 
 .circle:after
