@@ -19,7 +19,6 @@ body
     position: relative;
     width: 600px;
     height: 600px;
-    filter: url(#wavy) blur(1px);
 }
 
 .circle:before
@@ -89,10 +88,5 @@ body
                 inset 0 0 100px  #00fff2;
         filter: hue-rotate(360deg);
     }
-}
-
-svg {
-    width: 0;
-    height: 0;
 }
 
